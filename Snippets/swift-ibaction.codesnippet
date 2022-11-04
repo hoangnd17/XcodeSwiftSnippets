@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> @IBAction func &lt;# FuncName #&gt;(_ sender: AnyObject) {
+	<string> @IBAction private func &lt;# FuncName #&gt;(_ sender: AnyObject) {
         &lt;# code #&gt;
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
